@@ -1,0 +1,10 @@
+`day la chuoi: ${tenbien}`
+let number = 10
+let so=0;
+
+đổi số thành chuỗi : to.String()
+đổi chuỗi thành số : Number.parser
+&&: and
+&: phép toán và bit
+!: phủ định 
+||: or
